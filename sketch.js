@@ -15,7 +15,7 @@ function setup() {
 
   console.log(weight, speed);
 
-  wall.shapeColor = "red";
+  wall.shapeColor = "white";
   car.depth = wall.depth;
   car.depth += 1;
   car.shapeColor = "white";
